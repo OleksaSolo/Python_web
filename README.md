@@ -4,12 +4,13 @@
 
   1. Instagramm for cats
 
-Git
-https://github.com/OleksaSolo/Catsgramm
-Web
-https://catgramm.fly.dev
+    Git
+    https://github.com/OleksaSolo/Catsgramm
+    
+    Web
+    https://catgramm.fly.dev
 
   2. Using the Scrapy framework
 
-Git
-https://github.com/OleksaSolo/scrapgoit
+    Git
+    https://github.com/OleksaSolo/scrapgoit
