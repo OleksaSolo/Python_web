@@ -8,7 +8,9 @@
       
   Web: https://catgramm.fly.dev
 
-  2. Using the Scrapy framework
+  2. https://github.com/OleksaSolo/scrapgoit
 
-    Git
-    https://github.com/OleksaSolo/scrapgoit
+     Using the Scrapy framework
+
+   
+   
