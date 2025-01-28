@@ -2,9 +2,14 @@
 
   My Python Web Steps
 
-  Instagramm for cats
+  1. Instagramm for cats
 
 Git
 https://github.com/OleksaSolo/Catsgramm
 Web
 https://catgramm.fly.dev
+
+  2. Using the Scrapy framework
+
+Git
+https://github.com/OleksaSolo/scrapgoit
